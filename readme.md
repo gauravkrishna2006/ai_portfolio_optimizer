@@ -60,7 +60,6 @@ AI-Portfolio-Optimizer/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Required dependencies
 ├── README.md
-└── assets/                # (Optional) Screenshots
 ```
 
 ---
@@ -76,7 +75,7 @@ git clone https://github.com/gauravkrishna2006/ai_portfolio_optimizer
 Move into the project directory
 
 ```bash
-cd AI-Portfolio-Optimizer
+cd ai_portfolio_optimizer
 ```
 
 Install dependencies
@@ -167,13 +166,6 @@ The application displays:
 - Interactive Donut Chart
 - Investment Allocation Table
 
-*(Add screenshots inside the `assets` folder and update this section.)*
-
-Example:
-
-```
-assets/dashboard.png
-```
 
 ---
 
